@@ -1,40 +1,36 @@
 # Intelligent Download Section Organizer
+
 Automatically Organize Your Downloads Folder with Built-in Preview
+
 IDSO is a graphical application for Windows designed to bring order to the often chaotic Downloads folder. It automatically sorts files and folders into predefined categories, while providing a clean interface to navigate through them and even preview files quickly.
 
+# Key Features :
++ Smart Auto-Sorting:
++ Monitors your Downloads folder in the background.
++ Automatically detects new files and folders.
++ Checks whether files are "stable" (i.e., the download/copy is complete) before moving them to avoid errors.
++ Sorts items into predefined category folders: Images, Audio, Videos, Scripts, Documents, Archives, Folders (for subdirectories), and Others.
++ Handles naming conflicts by appending a timestamp to duplicates when moving files.
++ Initial Mass Sorting (with Progress Indicator):
++  On first launch, the app offers to sort all existing files in the Downloads folder.
 
-Key Features
-Smart Auto-Sorting:
-Monitors your Downloads folder in the background.
++ A visual progress bar shows the status of this initial sorting process.
 
-Automatically detects new files and folders.
++ Intuitive Graphical Interface:
++ Clear visualization of categories with distinct icons and item counts.
 
-Checks whether files are "stable" (i.e., the download/copy is complete) before moving them to avoid errors.
++ Easy navigation by category and file extension using a tab system.
 
-Sorts items into predefined category folders: Images, Audio, Videos, Scripts, Documents, Archives, Folders (for subdirectories), and Others.
++ Detailed file view (Name, Last Modified Date, Size) in sortable lists.
 
-Handles naming conflicts by appending a timestamp to duplicates when moving files.
++ Search function to quickly filter files within the selected category.
 
-Initial Mass Sorting (with Progress Indicator):
-On first launch, the app offers to sort all existing files in the Downloads folder.
++ Quick Preview (QuickLook Integration):
++ Press the spacebar on a selected file to instantly preview its contents (text, PDF, image, video, etc.).
 
-A visual progress bar shows the status of this initial sorting process.
++ Requires QuickLook (by QL-Win) to be installed on your system. Integration is done through the included Bridge.exe utility for maximum compatibility.
 
-Intuitive Graphical Interface:
-Clear visualization of categories with distinct icons and item counts.
-
-Easy navigation by category and file extension using a tab system.
-
-Detailed file view (Name, Last Modified Date, Size) in sortable lists.
-
-Search function to quickly filter files within the selected category.
-
-Quick Preview (QuickLook Integration):
-Press the spacebar on a selected file to instantly preview its contents (text, PDF, image, video, etc.).
-
-Requires QuickLook (by QL-Win) to be installed on your system. Integration is done through the included Bridge.exe utility for maximum compatibility.
-
-File Management:
++ File Management:
 Open files directly from the application.
 
 Open the containing folder in Windows Explorer.
